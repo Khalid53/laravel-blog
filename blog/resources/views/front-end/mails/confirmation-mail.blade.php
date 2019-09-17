@@ -1,0 +1,1 @@
+<h1> Hello Dear {{ $first_name.' '.$last_name }} </h1><br/><strong> Thanks for join our community............ </strong><br/><strong> Your email address is: {{ $email_address }} </strong><br/><strong> Your Phone Number is: {{ $phone_number }} </strong><br/><h4>Thanks By...........</h4><br/><h4>New Shop Team</h4>
